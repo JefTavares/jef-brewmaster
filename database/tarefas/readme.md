@@ -1,0 +1,1 @@
+Criar o esquema de dados antes de executar o script.
