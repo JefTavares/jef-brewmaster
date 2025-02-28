@@ -1,0 +1,15 @@
+services:
+  postgres:
+    image: "postgres:latest"
+    environment:
+      #  - POSTGRES_DB=catalogo
+      - POSTGRES_PASSWORD=secret
+      - POSTGRES_USER=jeftavares
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./PGData:/var/lib/postgresql/data # ou - pg-data:/var/lib/postgresql/data #docker volume inspect pg-data
+    restart: always
+    container_name: jeftavares-postgres
+#volumes:
+#  pg-data:

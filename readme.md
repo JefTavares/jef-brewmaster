@@ -1,0 +1,1 @@
+A ideia é ter um data base para cada recurso e uma api para cada recurso
