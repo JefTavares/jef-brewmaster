@@ -3,3 +3,4 @@ INSERT INTO editora (nome, biografia, url_logo, site_oficial) VALUES('Panini Bra
 INSERT INTO editora (nome, biografia, url_logo, site_oficial) VALUES('Pipoca & Nanquim', 'Daqueles 3 manos do yt', 'https://pipocaenanquim.com.br/media/logo/stores/1/logo.webp', 'https://pipocaenanquim.com.br');
 INSERT INTO editora (nome, biografia, url_logo, site_oficial) VALUES('Mythos Editora', '', '', '');
 INSERT INTO editora (nome, biografia, url_logo, site_oficial) VALUES('Asahi Shimbun', '', '', '');
+INSERT INTO editora (nome, biografia, url_logo, site_oficial) VALUES('Marvel Comics', '', '', '');
