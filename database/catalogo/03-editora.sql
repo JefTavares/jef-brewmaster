@@ -1,0 +1,6 @@
+INSERT INTO editora (nome, biografia, url_logo, site_oficial) VALUES('Dark Horse Comics', 'Dark Horse Comics é uma das maiores editoras de quadrinhos "independentes', 'http://www.guiadosquadrinhos.com/editoraestrangeira/imagens/2016/05/dark_horse_2edi_35675.jpg', 'https://www.darkhorse.com/');
+INSERT INTO editora (nome, biografia, url_logo, site_oficial) VALUES('Panini Brasil', 'Panini Brasil é a verão brasileira da Panini Comics ou grupo Panini', 'https://upload.wikimedia.org/wikipedia/pt/2/2e/Panini_Group_logo.jpg', 'https://panini.com.br/');
+INSERT INTO editora (nome, biografia, url_logo, site_oficial) VALUES('Pipoca & Nanquim', 'Daqueles 3 manos do yt', 'https://pipocaenanquim.com.br/media/logo/stores/1/logo.webp', 'https://pipocaenanquim.com.br');
+INSERT INTO editora (nome, biografia, url_logo, site_oficial) VALUES('Mythos Editora', '', '', '');
+INSERT INTO editora (nome, biografia, url_logo, site_oficial) VALUES('Asahi Shimbun', '', '', '');
+INSERT INTO editora (nome, biografia, url_logo, site_oficial) VALUES('Marvel Comics', '', '', '');
